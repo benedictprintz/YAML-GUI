@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 
-# GUI viewer to view JSON data as tree.
+# GUI viewer to view YAML data as tree.
 # Ubuntu packages needed:
 # python3-pyqt5
 
