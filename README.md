@@ -16,4 +16,6 @@ When running an example .yaml file into this tool, the following GUI would be ge
 
 As can be seen, different .yaml files generate different topologies.
 
-<center><img src="https://github.com/benedictprintz/YAML-GUI/blob/master/example2.png" width="500"></center>
+<p align="center">
+  <img src="https://github.com/benedictprintz/YAML-GUI/blob/master/example2.png" width="500">
+</p>
