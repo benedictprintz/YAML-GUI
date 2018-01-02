@@ -7,4 +7,4 @@ To use this tool, simply run the following command line:
 $ ./yaml_viewer.py sample.yaml
 ```
 
-[[https://github.com/benedictprintz/YAML-GUI/blob/master/example1.png]]
+<img src="https://github.com/benedictprintz/YAML-GUI/blob/master/example1.png" width="48">
