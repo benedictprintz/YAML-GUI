@@ -9,7 +9,9 @@ $ ./yaml_viewer.py sample.yaml
 
 When running an example .yaml file into this tool, the following GUI would be generated.
 
-<img src="https://github.com/benedictprintz/YAML-GUI/blob/master/example1.png" class="center" width="500">
+<p align="center">
+  <img src="https://github.com/benedictprintz/YAML-GUI/blob/master/example1.png" width="500">
+</p>
 
 
 As can be seen, different .yaml files generate different topologies.
