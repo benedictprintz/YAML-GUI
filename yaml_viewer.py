@@ -157,7 +157,8 @@ class JsonViewer(QtWidgets.QMainWindow):
         super(JsonViewer, self).__init__()
 
         with open(sys.argv[1], 'r') as f:
-            doc = yaml.load(f)
+#             doc = yaml.load(f)
+            doc = yaml.full_load(f)
         jsonfile = json.dumps(doc, sort_keys=True, indent=4)
 
         a=open('data.json', 'w')
